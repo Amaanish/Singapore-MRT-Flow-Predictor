@@ -17,7 +17,7 @@ This project uses XGBoost and K-Means clustering to analyze Singapore's Mass Rap
 ## Dataset
 
 The project uses Singapore MRT tap-in/tap-out transaction data:
-- **Source**: Transport node train data (August-October 2023)
+- **Source**: Transport node train data (August-October 2023) From Kagglehub: "https://www.kaggle.com/datasets/yorkyong/singapore-passenger-volume-by-train-stations?resource=download"
 - **Format**: CSV files with monthly data
 - **Fields**: Year-month, day type, time, station code, tap-in/tap-out volumes
 
@@ -48,11 +48,9 @@ The project uses Singapore MRT tap-in/tap-out transaction data:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mrt-flow-predictor.git
+git clone https://github.com/Amaanish/mrt-flow-predictor.git
 cd mrt-flow-predictor
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ## Usage
