@@ -183,5 +183,3 @@ Contributions are welcome! Areas for improvement:
 For questions or suggestions, please open an issue on GitHub or contact the project maintainers.
 
 ---
-
-**Built with ❤️ for Singapore commuters**
